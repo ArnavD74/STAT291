@@ -9,4 +9,4 @@ Before running these examples, ensure you have the following installed:
 - RStudio or alternative R IDEs (e.g. Posit Cloud)
 - The necesary packages required for each project
 
-All of the individual projects are located in each projects folder, under Project.R. 
+All of the individual projects are located in each projects folder, under `Project.R`. 
