@@ -4,7 +4,7 @@ library(moderndive)
 library(skimr)
 
 noaa_data <- read.csv("NOAAGISSWeatherDisasters.csv")
-source("fixregday1.pck")
+source("models.pck")
 # source("regday2.pck")
 
 skim(noaa_data)
